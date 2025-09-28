@@ -1,2 +1,2 @@
 print("login")
-pirnt("nueva texto")
+print("nueva texto")

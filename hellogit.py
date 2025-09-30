@@ -1,3 +1,2 @@
-print(f"Hello Git V2")
-for i in range(0, 99999):
-    print(i)
+print("hello git 5")
+print("se modifica el texto otra vez")

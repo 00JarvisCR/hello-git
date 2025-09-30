@@ -1,3 +1,2 @@
-print("login")
-print("nueva texto")
-print("esto me da error")
+numero = input("ingrese un numero")
+print(numero)
